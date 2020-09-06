@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<!-- 互換性とアクセシビリティのために<html>タグの「lang=""」属性をセット。
-     HTMLタグのほかの属性については下記ページを参考に。
-     参考: http://www.w3.org/TR/html-markup/global-attributes.html -->
-<html>
-
 <head>
 
 <!-- IE8+に対して「IE=edge」と指定することで、
@@ -58,14 +52,3 @@
      可能であれば「async（文書の読み込みが完了した時点でスクリプトを実行）」を使用
      例: <script src="" async></script> -->
 </head>
-<body>
-  <h1>LiveFreely</h1>
-
-<!-- コンテンツを配置 -->
-
-<!-- スクリプトでブロッキングを起こすものはここに記述
-     ブロッキングを起こす原因としては、
-     CSSのセレクタ操作（IE）、負荷の高いDOM操作、多数のスクリプトなど -->
-<!-- SCRIPTS -->
-<!-- 例: <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
-</body>
