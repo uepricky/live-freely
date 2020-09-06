@@ -28,7 +28,7 @@
 <!-- スタイルシートはできるだけ早くレンダリングされるため、
      HTMLドキュメントの上の方に記述
      href属性にスタイルシートファイルのURIを記述 -->
-<link rel="stylesheet" href="">
+<link rel="stylesheet" href="public_html/views/style.css">
 
 <!-- IE8以下用に2つのスクリプトを記述
      html5shiv.js: IE8以下にHTML5の要素を認識するようにさせる
