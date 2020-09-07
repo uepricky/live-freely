@@ -28,7 +28,7 @@
 <!-- スタイルシートはできるだけ早くレンダリングされるため、
      HTMLドキュメントの上の方に記述
      href属性にスタイルシートファイルのURIを記述 -->
-<link rel="stylesheet" href="views/style.css">
+<link rel="stylesheet" href="public_html/views/style.css">
 
 <!-- IE8以下用に2つのスクリプトを記述
      html5shiv.js: IE8以下にHTML5の要素を認識するようにさせる
@@ -51,6 +51,4 @@
 <!-- スクリプトでブロッキングを起こさないものはここに記述
      可能であれば「async（文書の読み込みが完了した時点でスクリプトを実行）」を使用
      例: <script src="" async></script> -->
-     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
- 
 </head>
